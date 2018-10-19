@@ -20,6 +20,7 @@ def gradient(x,y):
         print(temp1)
         theart0 = temp0
         theart1 = temp1
+
     return theart1,theart0
 
 if __name__ == '__main__':
